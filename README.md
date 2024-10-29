@@ -1,5 +1,7 @@
 # YT-dlp
 
+<img src="https://github.com/yt-dlp-code/YT-dlp/blob/main/yt.png"/>
+
 ***yt-dlp is a command-line program that lets you easily download videos and audio from more than a thousand websites. See the list of supported sites***
 
 Note: yt-dlp is a fork of youtube-dl that was created after the parent project became stagnant. The upstream youtube-dl can still be installed as youtube-dlAUR; commands on this page should still work, but check the list of differences.
